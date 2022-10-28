@@ -262,10 +262,11 @@ blockquote span{
 
 .sec-one-left{
     height: 100vh;
-    background: url("../ImagesJohn/ProfessionalimgEx");
+    background: url("../ImagesJohn/JDM_6682.jpg");
     box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75) ;
     -webkit-box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75);
+    
 }
 
 .sec-one-left div{
@@ -310,12 +311,12 @@ blockquote span{
 }
 
 .work-img-1{
-    background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)), url("../ImagesJohn/HeaderBack1.jpeg") center/cover no-repeat ;
+    background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)), url("../ImagesJohn/DSC_6994.jpg") center/cover no-repeat ;
     height: 400px;
     transition: var(--transition) ;
 }
 .work-img-2{
-    background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)), url("../ImagesJohn/HeaderBack1.jpeg")  center/cover no-repeat;
+    background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)), url("../ImagesJohn/DSC_0683.jpg")  center/cover no-repeat;
     height: 400px;
     transition: var(--transition) ;
 }
@@ -600,11 +601,11 @@ blockquote span{
         justify-content: space-between;
     }
     .navBtn{
-        display: none;
+       /* display: none;*/
     }
     .brand-and-navBtn{
         flex: 0 0 10%;
-        background: none;
+       /* background: none;*/
     }
     .top-nav{
         flex: 0 1 80%;
@@ -712,7 +713,7 @@ blockquote span{
         padding-bottom: 30px;
     }
     .social-icons{
-        display: none;
+       /* display: none;*/
     }
     .about-content h3{
         width: 100%;
