@@ -272,22 +272,54 @@ blockquote span{
     min-height: 100vh;
 }
 
+
 .sec-one-left{
-    height: 100vh;
-    background: url("../ImagesJohn/HeaderBack1.jpeg");
-    box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75) ;
+    height: ;
+    background: url("");
+   box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75) ;
     -webkit-box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.75);*/
     
+}
+.instagram-media{
+   
+}
+
+
+
+iframe{
+    margin-top: 30px;
+}
+
+
+/* for the sec left code added*/
+
+
+.sec-one-left .ABOUTT{
+   margin: 50px;
+   color: var(--lightGrey);
+    margin: 50px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+    opacity: 0.9;
+}
+
+.sec-one-left .padded{
+    font-weight: 400 ;
+    opacity: 0.9;
+    margin: 40px;
+    color: #000;
+   
 }
 
 .sec-one-left div{
     color: #fff;
-    height: 100% ;
+    height: 50px ;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    padding: 30px;
+    padding: 6px;
 }
 
 .sec-one-left div h3{
@@ -302,6 +334,7 @@ blockquote span{
 
 .sec-one-right h3{
     color: var(--lightGrey);
+    margin: 50px;
 }
 
 .sec-one-right >h3{
@@ -611,9 +644,12 @@ blockquote span{
     .nav-section{
         display: flex;
         justify-content: space-between;
+        background-color: #000;
+        margin-bottom: 30px !important;
     }
     .navBtn{
        /* display: none;*/
+       display: none;
     }
     .brand-and-navBtn{
         flex: 0 0 10%;
@@ -713,7 +749,7 @@ blockquote span{
 @media screen and (min-width: 1400px){
     /* section four */
     .blog-wrapper-sm{
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -768,7 +804,10 @@ blockquote span{
 
 
 
+.elfsight-app-d44675ae-6f35-4ff9-8f2f-43b4835d9546{
 
+   
+}
 
 
 
