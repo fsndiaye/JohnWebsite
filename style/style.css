@@ -23,7 +23,9 @@
  /* font-family: 'Roboto , sans-serif';*/
 }
 
-
+html{
+    max-width: 100%;
+}
 
                 
 
