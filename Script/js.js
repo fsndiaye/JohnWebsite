@@ -18,4 +18,4 @@ showBtn.addEventListener('click', function(){
 
 
 // LightBox
-var lightbox = new SimpleLightbox('.gallery a', { /* options */ });
+var lightbox = new SimpleLightbox('.box .gallery a', { /* options */ });
